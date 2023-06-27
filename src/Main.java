@@ -5,7 +5,7 @@ public class Main {
 //        pi = 3.14159;
 //        raio = 2.001;
 //        area = pi*raio*raio;
-//        System.out.println("A = " + area);
+//        System.out.printf("A = %.4f",area);
 
         //Solução 2
 //        String numMatricula;
